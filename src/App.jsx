@@ -47,7 +47,7 @@ const App = () => {
         <div className=" flex items-center justify-center gap-2 flex-col">
           <img
             className=" mix-blend-difference w-[100px] rounded-full bg-black "
-            src="https://i.postimg.cc/NMzp0vvs/vecteezy-letter-at-logo-design-free-vector-file-9658784.jpg"
+            src="/name logo.jpg"
             alt=""
           />
           <h2 className=" text-white text-[1.65rem] font-bold">
