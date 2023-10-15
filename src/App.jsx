@@ -46,7 +46,7 @@ const App = () => {
         {/* ------------- IMAGE ----- START */}
         <div className=" flex items-center justify-center gap-2 flex-col">
           <img
-            className="w-[100px] rounded-full bg-black "
+            className="w-[100px] rounded-full text-black "
             src="/name logo.jpg"
             alt=""
           />
