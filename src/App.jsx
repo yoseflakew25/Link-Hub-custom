@@ -46,8 +46,8 @@ const App = () => {
         {/* ------------- IMAGE ----- START */}
         <div className=" flex items-center justify-center gap-2 flex-col">
           <img
-            className="w-[100px] rounded-full text-black "
-            src="/name logo.png"
+            className=" mix-blend-difference w-[100px] rounded-full bg-black z"
+            src="/public/name logo.png"
             alt=""
           />
           <h2 className=" text-white text-[1.65rem] font-bold">
